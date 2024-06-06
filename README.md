@@ -32,3 +32,7 @@ T -- Change Texture of walls and square columns
 
 Demo
 
+
+
+https://github.com/KoketsoSetatwe/The-Maze/assets/140320272/01ef5040-bbeb-4e69-965a-3a6ee15a6ecf
+
